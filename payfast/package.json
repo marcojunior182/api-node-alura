@@ -1,0 +1,25 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "Um gateway para pagamentos através de recursos http.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "api"
+  ],
+  "author": "Marco Junior",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "consign": "^0.1.6",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0"
+  }
+}
